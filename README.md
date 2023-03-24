@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @devguilhermecarvalho
-- 👀 I’m interested in front and back-end languages.
-- 🌱 I’m currently learning php and java.
+<div><h1>Seja bem vindo!</h1></div>
 
-<!---
+<!-- HABILIDADES / SKILLS -->
+<div>
+    <h6>🚀 Habilidades / Skills</h6>
+    <!-- HTML -->
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <!-- CSS -->
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <!-- JAVASCRIPT -->
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <!-- PHP -->
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <!-- MYSQL -->
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <!-- WORDPRESS -->
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+    <!-- .NET -->
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <!-- C# -->
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</div>
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-devguilhermecarvalho/devguilhermecarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- REDES SOCIAIS -->
+<div>
+    <h6>💻 Links</h6>
+    <!-- LINKEDIN -->
+    <a href="https://www.linkedin.com/in/devguilhermecarvalho/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <!-- INSTAGRAM -->
+    <a href="https://www.instagram.com/dev.guilhermecarvalho/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <!-- YOUTUBE -->
+    <a href="https://www.youtube.com/@devguilhermecarvalho" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    <!-- BEHANCE -->
+    <a href="https://www.behance.net/guilherrosade" target="_blank">
+        <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
+    </a>
+</div>
