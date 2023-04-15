@@ -11,10 +11,10 @@
     <!-- HTML CSS JS -->
     <h5>
         1- <a href="https://github.com/devguilhermecarvalho/Portugol">
-            Responsive Menu Vertical (HTML5-CSS3-JS)
-            </a>
+            Responsive Menu Vertical - HTML5 | CSS3 | JS
+            </a><br>
         2- <a href="https://github.com/devguilhermecarvalho/Portugol">
-            Full Responsive Website - HTML5 / CSS3 / JS- / HP / MYSQL
+            Full Responsive Website - HTML5 | CSS3 | JS | PHP | MYSQL
             </a>
     </h5>    
 </div>
