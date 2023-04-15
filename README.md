@@ -1,31 +1,27 @@
 <div><h1>Seja bem vindo / Welcome! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1></div>
 <!-- SOBRE -->
 
-
-
 <div>
-    <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="15">       &nbsp;Sobre / About</h3>
+    <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="13">         | Sobre / About</h3>
     <p>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</p>
 </div>
 
 <!-- PROJETOS / PROJECTS -->
-
 <div>
-    <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM5NjBhZDliMTViZjAwNmY0Yjg5NWM2OTZiNDQ3YjQzOTc3MTMwMiZjdD1n/vpg3Wwp15gIgWhFyf6/giphy.gif" height="14">&nbsp;Projetos / Projects</h3>
+    <h3><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos / Projects</h3>
     <!-- HTML CSS JS -->
     <h4>
         •&nbsp;&nbsp; <a href="https://github.com/devguilhermecarvalho/">
-            Responsive Menu Vertical - [HTML5, CSS3, JS]
-            </a><br>
-        •&nbsp;&nbsp; <a href="https://github.com/devguilhermecarvalho/">
-            Full Responsive Website - HTML5 | CSS3 | JS | PHP | MYSQL
-            </a>
+            Responsive Menu Vertical </a><p>- [HTML5, CSS3, JS]</p>
+            <br>
+        <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/">
+            Full Responsive Website </a>- HTML5 | CSS3 | JS | PHP | MYSQL</p>
     </h4>    
 </div>
 
 <!-- HABILIDADES / SKILLS -->
 <div>
-    <h3>- &nbsp;&nbsp;Habilidades / Skills</h3>
+    <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwN2ZhYjQ3NWEyZTRmZGQ0NzVlNjljZDIzMjQ5YmQxZDAyNDk2OCZjdD1n/xTiTnJx84dFZitpX2g/giphy.gif" height="13"> | Habilidades / Skills</h3>
     <!-- HTML -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <!-- CSS -->
@@ -47,7 +43,7 @@
 
 <!-- REDES SOCIAIS -->
 <div>
-    <h3>- &nbsp;&nbsp;Links</h3>
+    <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg2YmI2Zjk1N2Y4NmZiYjYxMjFjNTJlNjBlZWExN2I4MGYwNWE4ZCZjdD1n/xTiTnnmUYRNL25RqNi/giphy.gif" height="13"> | Links</h3>
     <!-- LINKEDIN -->
     <a href="https://www.linkedin.com/in/devguilhermecarvalho/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -69,5 +65,6 @@
 
 <!-- CONTATO -->
 <div>
-    <h3>- &nbsp;&nbsp;Contato / Contatc <br> E-mail: guilhermerdcarvalho@gmail.com</h3>
+    <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJkMTBkZmVhYjJlMzE3MDliYWM4MTU0NDc1NTJjNWY0ZGY4YzE1NiZjdD1n/l0Exm8xQJVmo1WtSU/giphy.gif" height="13"> | Contato / Contatc</h3>
+    <p>E-mail: guilhermerdcarvalho@gmail.com</p>
 </div>
