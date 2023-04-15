@@ -1,19 +1,19 @@
-<div><h1>Seja bem vindo / Welcome!</h1></div>
+<div><h1>Seja bem vindo / Welcome! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1></div>
 <!-- SOBRE -->
 <div>
-    <h3>♦ Sobre / About</h3>
-    <h4>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</h4>
+    <h3>- &nbsp;&nbsp;Sobre / About</h3>
+    <p><em>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</em></p>
 </div>
 
 <!-- PROJETOS / PROJECTS -->
 <div>
-    <h3>♦ Projetos / Projects</h3>
+    <h3>- &nbsp;&nbsp;Projetos / Projects</h3>
     <!-- HTML CSS JS -->
     <h4>
-        • <a href="https://github.com/devguilhermecarvalho/">
-            Responsive Menu Vertical - HTML5 | CSS3 | JS
+        •&nbsp;&nbsp; <a href="https://github.com/devguilhermecarvalho/">
+            Responsive Menu Vertical - [HTML5, CSS3, JS]
             </a><br>
-        • <a href="https://github.com/devguilhermecarvalho/">
+        •&nbsp;&nbsp; <a href="https://github.com/devguilhermecarvalho/">
             Full Responsive Website - HTML5 | CSS3 | JS | PHP | MYSQL
             </a>
     </h4>    
@@ -21,7 +21,7 @@
 
 <!-- HABILIDADES / SKILLS -->
 <div>
-    <h3>♦ Habilidades / Skills</h3>
+    <h3>- &nbsp;&nbsp;Habilidades / Skills</h3>
     <!-- HTML -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <!-- CSS -->
@@ -43,7 +43,7 @@
 
 <!-- REDES SOCIAIS -->
 <div>
-    <h3>♦ Links</h3>
+    <h3>- &nbsp;&nbsp;Links</h3>
     <!-- LINKEDIN -->
     <a href="https://www.linkedin.com/in/devguilhermecarvalho/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -65,5 +65,5 @@
 
 <!-- CONTATO -->
 <div>
-    <h3>• Contato / Contatc <br> E-mail: guilhermerdcarvalho@gmail.com</h3>
+    <h3>- &nbsp;&nbsp;Contato / Contatc <br> E-mail: guilhermerdcarvalho@gmail.com</h3>
 </div>
