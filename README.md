@@ -1,20 +1,20 @@
 <div><h1>Seja bem vindo / Welcome!</h1></div>
 <!-- SOBRE -->
 <div>
-    <h4>♦   Sobre / About</h4>
+    <h4>•   Sobre / About</h4>
     <h5>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</h5>
 </div>
 
 <!-- PROJETOS / PROJECTS -->
 <div>
-    <h4>♦ Projetos / Projects</h4>
+    <h4>•   Projetos / Projects</h4>
     <!-- HTML CSS JS -->
     <h5>1- <a href="https://github.com/devguilhermecarvalho/Portugol">Responsive Menu Vertical (HTML5-CSS3-JS)</h5></a>
 </div>
 
 <!-- HABILIDADES / SKILLS -->
 <div>
-    <h4>♦ Habilidades / Skills</h4>
+    <h4>•   Habilidades / Skills</h4>
     <!-- HTML -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <!-- CSS -->
@@ -36,7 +36,7 @@
 
 <!-- REDES SOCIAIS -->
 <div>
-    <h4>♦ Links</h4>
+    <h4>•   Links</h4>
     <!-- LINKEDIN -->
     <a href="https://www.linkedin.com/in/devguilhermecarvalho/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -58,6 +58,6 @@
 
 <!-- CONTATO -->
 <div>
-    <h4>♦ Contato / Contatc</h4>
+    <h4>•   Contato / Contatc</h4>
     <h5>E-mail: guilhermerdcarvalho@gmail.com</h5>
 </div>
