@@ -10,10 +10,10 @@
     <h3>♦ Projetos / Projects</h3>
     <!-- HTML CSS JS -->
     <h4>
-        1- <a href="https://github.com/devguilhermecarvalho/Portugol">
+        • <a href="https://github.com/devguilhermecarvalho/">
             Responsive Menu Vertical - HTML5 | CSS3 | JS
             </a><br>
-        2- <a href="https://github.com/devguilhermecarvalho/Portugol">
+        • <a href="https://github.com/devguilhermecarvalho/">
             Full Responsive Website - HTML5 | CSS3 | JS | PHP | MYSQL
             </a>
     </h4>    
@@ -21,7 +21,7 @@
 
 <!-- HABILIDADES / SKILLS -->
 <div>
-    <h3>• Habilidades / Skills</h3>
+    <h3>♦ Habilidades / Skills</h3>
     <!-- HTML -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <!-- CSS -->
@@ -43,7 +43,7 @@
 
 <!-- REDES SOCIAIS -->
 <div>
-    <h3>• Links</h3>
+    <h3>♦ Links</h3>
     <!-- LINKEDIN -->
     <a href="https://www.linkedin.com/in/devguilhermecarvalho/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
