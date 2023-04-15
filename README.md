@@ -1,13 +1,17 @@
 <div><h1>Seja bem vindo / Welcome! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1></div>
 <!-- SOBRE -->
+
+
+
 <div>
-    <h3>- &nbsp;&nbsp;Sobre / About</h3>
-    <p><em>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</em></p>
+    <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="15">       &nbsp;Sobre / About</h3>
+    <p>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</p>
 </div>
 
 <!-- PROJETOS / PROJECTS -->
+
 <div>
-    <h3>- &nbsp;&nbsp;Projetos / Projects</h3>
+    <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM5NjBhZDliMTViZjAwNmY0Yjg5NWM2OTZiNDQ3YjQzOTc3MTMwMiZjdD1n/vpg3Wwp15gIgWhFyf6/giphy.gif" height="14">&nbsp;Projetos / Projects</h3>
     <!-- HTML CSS JS -->
     <h4>
         •&nbsp;&nbsp; <a href="https://github.com/devguilhermecarvalho/">
