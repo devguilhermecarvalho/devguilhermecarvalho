@@ -1,10 +1,8 @@
 <div><h1>Seja bem vindo / Welcome!</h1></div>
 <!-- SOBRE -->
-
 <div>
     <h4>♦   Sobre / About</h4>
-    <h5>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas.<br/>
-        Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</h5>
+    <h5>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</h5>
 </div>
 
 <!-- PROJETOS / PROJECTS -->
