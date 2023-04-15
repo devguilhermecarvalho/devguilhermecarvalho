@@ -11,11 +11,10 @@
     <h3><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos / Projects</h3>
     <!-- HTML CSS JS -->
     <h4>
-        •&nbsp;&nbsp; <a href="https://github.com/devguilhermecarvalho/">
-            Responsive Menu Vertical </a><p>- [HTML5, CSS3, JS]</p>
-            <br>
         <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/">
-            Full Responsive Website </a>- HTML5 | CSS3 | JS | PHP | MYSQL</p>
+            Responsive Menu Vertical</a> | HTML5 | CSS3 | JS</p>
+        <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/">
+            Full Responsive Website</a>&nbsp;&nbsp;&nbsp; | HTML5 | CSS3 | JS | PHP | MYSQL</p>
     </h4>    
 </div>
 
