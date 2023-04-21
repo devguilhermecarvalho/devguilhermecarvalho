@@ -11,10 +11,8 @@
     <h3><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos / Projects</h3>
     <!-- HTML CSS JS -->
     <h4>
-        <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/">
-            Responsive Menu Vertical</a> | HTML5 | CSS3 | JS</p>
-        <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/">
-            Full Responsive Website</a>&nbsp;&nbsp;&nbsp; | HTML5 | CSS3 | JS | PHP | MYSQL</p>
+        <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/simple-web-app">
+            Simples Página Web utilizando .Net Razor Pages</a> | HTML5 | CSS3 | C#</p>
     </h4>    
 </div>
 
