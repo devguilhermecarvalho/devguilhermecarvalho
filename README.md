@@ -12,7 +12,7 @@
     <!-- HTML CSS JS -->
     <h4>
         <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/simple-web-app">
-            Simples Página Web utilizando .Net Razor Pages</a> | HTML5 | CSS3 | C#</p>
+            Simples Página Web utilizando .Net Razor Pages</a> | HTML5 | CSS3 | C# | .NET Razor</p>
     </h4>    
 </div>
 
