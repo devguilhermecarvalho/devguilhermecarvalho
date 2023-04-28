@@ -12,7 +12,7 @@
     <h3>••• Front-end </h3>
     <h4>
         <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/Menus">
-           Projeto de Menus Responsivoso</a> | JavaScript | CSS3 | HTML5</p>
+           Projeto de Menus Responsivos</a> | JavaScript | CSS3 | HTML5</p>
     </h4>       
     <h3>••• Back-end </h3>
     <h4>
