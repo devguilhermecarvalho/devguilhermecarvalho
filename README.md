@@ -9,15 +9,15 @@
 <!-- PROJETOS / PROJECTS -->
 <div>
     <h2><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos / Projects</h2>
-    <h3>- Front-end </h3>
+    <h3>••• Front-end </h3>
     <h4>
         <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/Menus">
            Projeto de Menus Responsivoso</a> | JavaScript | CSS3 | HTML5</p>
     </h4>       
-    <h3>- Back-end </h3>
+    <h3>••• Back-end </h3>
     <h4>
         <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/simple-web-app">
-            Simples Página Web utilizando .Net Razor Pages</a> | HTML5 | CSS3 | C# | .NET Razor</p>
+            Simples Página Web utilizando .Net Razor Pages</a> | .NET Razor | C# | CSS3 | HTML5 </p>
     </h4>    
 </div>
 
