@@ -9,6 +9,9 @@
 <!-- PROJETOS / PROJECTS -->
 <div>
     <h2><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos / Projects</h2>
+    <h3>••• Santander Coders 2023 </h3>
+        <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/">
+           Exercícios e estudos</a> | Python</p>
     <h3>••• Front-end </h3>
     <h4>
         <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/Menus">
