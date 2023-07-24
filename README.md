@@ -12,17 +12,6 @@
     <h3>••• Santander Coders 2023 </h3>
         <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/santander-coders-2023-engdados">
            Exercícios e estudos</a> | Python</p>
-    <h3>••• Front-end </h3>
-    <h4>
-        <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/Menus">
-           Projeto de Menus Responsivos</a> | JavaScript | CSS3 | HTML5</p>
-    </h4>       
-    <h3>••• Back-end </h3>
-    <h4>
-        <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/simple-web-app">
-            Simples Página Web utilizando .Net Razor Pages</a> | .NET Razor | C# | CSS3 | HTML5 </p>
-    </h4>    
-</div>
 
 <!-- HABILIDADES / SKILLS -->
 <div>
