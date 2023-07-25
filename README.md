@@ -3,7 +3,7 @@
 
 <div>
     <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="13">         | Sobre</h2>
-    <p>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</p>
+    <p>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como Python, bem como em banco de dados SQL e gerenciamento de versões com GIT.</p>
 </div>
 
 <!-- PROJETOS -->
