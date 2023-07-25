@@ -14,9 +14,9 @@
            Formação Python</a> | Python</p>
     
     <h3>••• Santander Coders 2023 </h3>
-        <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/santander-coders-2023-engdados">
+    <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/santander-coders-2023-engdados">
            Exercícios e estudos</a> | Python</p>
-
+</div>
 <!-- HABILIDADES / SKILLS -->
 <div>
     <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwN2ZhYjQ3NWEyZTRmZGQ0NzVlNjljZDIzMjQ5YmQxZDAyNDk2OCZjdD1n/xTiTnJx84dFZitpX2g/giphy.gif" height="13"> | Habilidades / Skills</h2>
