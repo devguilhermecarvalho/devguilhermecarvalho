@@ -1,14 +1,14 @@
-<div><h3>Seja bem vindo / Welcome! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h3></div>
+<div><h3>Seja bem vindo(a)!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h3></div>
 <!-- SOBRE -->
 
 <div>
-    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="13">         | Sobre / About</h2>
+    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="13">         | Sobre</h2>
     <p>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como C#, .NET e PHP, bem como em banco de dados SQL e gerenciamento de versões com GIT.</p>
 </div>
 
-<!-- PROJETOS / PROJECTS -->
+<!-- PROJETOS -->
 <div>
-    <h2><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos / Projects</h2>
+    <h2><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos</h2>
     <b>• Dio - Plataforma de Estudos</b>
     <br>→ <a href="https://github.com/devguilhermecarvalho/dio-desafio-python"> Formação Python</a> | Python
     <br><b>• Formação Santander Coders 2023 - Engenharia de Dados</b>
@@ -16,23 +16,15 @@
     
 <!-- HABILIDADES / SKILLS -->
 <div>
-    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwN2ZhYjQ3NWEyZTRmZGQ0NzVlNjljZDIzMjQ5YmQxZDAyNDk2OCZjdD1n/xTiTnJx84dFZitpX2g/giphy.gif" height="13"> | Habilidades / Skills</h2>
+    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwN2ZhYjQ3NWEyZTRmZGQ0NzVlNjljZDIzMjQ5YmQxZDAyNDk2OCZjdD1n/xTiTnJx84dFZitpX2g/giphy.gif" height="13"> | Habilidades</h2>
     <!-- HTML -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <!-- CSS -->
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <!-- JAVASCRIPT -->
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <!-- PHP -->
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <!-- MYSQL -->
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <!-- WORDPRESS -->
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-    <!-- .NET -->
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <!-- C# -->
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 
@@ -61,5 +53,5 @@
 <!-- CONTATO -->
 <div>
     <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJkMTBkZmVhYjJlMzE3MDliYWM4MTU0NDc1NTJjNWY0ZGY4YzE1NiZjdD1n/l0Exm8xQJVmo1WtSU/giphy.gif" height="13"> | Contato / Contatc</h2>
-    <p>E-mail: guilhermerdcarvalho@gmail.com</p>
+    <p><b>E-mail: guilhermerdcarvalho@gmail.com</b></p>
 </div>
