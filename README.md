@@ -9,14 +9,11 @@
 <!-- PROJETOS / PROJECTS -->
 <div>
     <h2><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos / Projects</h2>
-    <h3>••• Dio </h3>
-    <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/dio-desafio-python">
-           Formação Python</a> | Python</p>
+    <b>• Dio - Plataforma de Estudos</b>
+    <br>→ <a href="https://github.com/devguilhermecarvalho/dio-desafio-python"> Formação Python</a> | Python
+    <br><b>• Formação Santander Coders 2023 - Engenharia de Dados</b>
+    <br>→ <a href="https://github.com/devguilhermecarvalho/santander-coders-2023-engdados"> Desafios, exercícios, estudos e etc</a> | Python
     
-    <h3>••• Santander Coders 2023 </h3>
-    <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/santander-coders-2023-engdados">
-           Exercícios e estudos</a> | Python</p>
-</div>
 <!-- HABILIDADES / SKILLS -->
 <div>
     <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwN2ZhYjQ3NWEyZTRmZGQ0NzVlNjljZDIzMjQ5YmQxZDAyNDk2OCZjdD1n/xTiTnJx84dFZitpX2g/giphy.gif" height="13"> | Habilidades / Skills</h2>
