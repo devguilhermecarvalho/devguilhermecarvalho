@@ -9,6 +9,10 @@
 <!-- PROJETOS / PROJECTS -->
 <div>
     <h2><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos / Projects</h2>
+    <h3>••• Dio </h3>
+    <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/dio-desafio-python">
+           Formação Python</a> | Python</p>
+    
     <h3>••• Santander Coders 2023 </h3>
         <p> •&nbsp;&nbsp;<a href="https://github.com/devguilhermecarvalho/santander-coders-2023-engdados">
            Exercícios e estudos</a> | Python</p>
