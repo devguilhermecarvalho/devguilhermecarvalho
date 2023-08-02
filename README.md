@@ -17,14 +17,17 @@
 <!-- HABILIDADES / SKILLS -->
 <div>
     <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwN2ZhYjQ3NWEyZTRmZGQ0NzVlNjljZDIzMjQ5YmQxZDAyNDk2OCZjdD1n/xTiTnJx84dFZitpX2g/giphy.gif" height="13"> | Habilidades</h2>
-    <!-- HTML -->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <!-- CSS -->
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <!-- JAVASCRIPT -->
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <!-- PYTHON  -->
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <!-- MYSQL -->
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <!-- JAVASCRIPT -->
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <!-- CSS -->
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <!-- HTML -->
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    
 </div>
 
 
