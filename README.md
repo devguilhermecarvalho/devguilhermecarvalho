@@ -1,9 +1,16 @@
-<div><h3>Seja bem vindo(a)!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h3></div>
-<!-- SOBRE -->
-
 <div>
-    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="13">         | Sobre</h2>
-    <p>Atualmente, me dedico ao Curso de Engenharia de Software, sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades técnicas. Tenho um conhecimento sólido em tecnologias front-end, HTML5, CSS3 e JavaScript. Também tenho experiência em linguagens de programação como Python, bem como em banco de dados SQL e gerenciamento de versões com GIT.</p>
+<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="13">
+<b>Seja bem-vindo(a)!</b>
+
+Tenho me dedicado à área de tecnologia e continuo em constante aprimoramento para construir minha carreira. Explorei diversos segmentos, como design, gestão e administração. No entanto, descobri que minha verdadeira paixão está no desenvolvimento de softwares e aplicativos web. Lidar com a lógica de programação e a engenharia tecnológica é o meu objetivo e que me impulsiona profissionalmente.
+
+Ao longo dos anos, tenho buscado expandir meu conhecimento e habilidades me aprofundado em linguagens de programação, frameworks e ferramentas relevantes para o desenvolvimento de software.
+
+Agora, estou buscando uma oportunidade para contribuir com o meu conhecimento e dar continuidade na minha carreira na área tecnológica.
+
+Obrigado por ter chegado até aqui,
+Abraço!
+</p>
 </div>
 
 <!-- PROJETOS -->
