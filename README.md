@@ -1,44 +1,29 @@
 <div>
-<p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="13">
-<b>Seja bem-vindo(a)!</b>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="13"><b> Seja bem-vindo(a)!</b></h2>
+    
+Tenho proficiência em Python e especialização em Engenharia de Dados. Procuro aprimorar constantemente meu conhecimento em Programação Orientada a Objetos (POO), processos de ETL e ELT, integração com APIs REST, bem como nas bibliotecas Pandas, Numpy, Spark e Hadoop, além de conceitos de SQL.
 
-Tenho me dedicado à área de tecnologia e continuo em constante aprimoramento para construir minha carreira. Explorei diversos segmentos, como design, gestão e administração. No entanto, descobri que minha verdadeira paixão está no desenvolvimento de softwares e aplicativos web. Lidar com a lógica de programação e a engenharia tecnológica é o meu objetivo e que me impulsiona profissionalmente.
+Atualmente, estou cursando Engenharia de Software, com foco em Engenharia de Dados. Também acumulei experiência em Desenvolvimento Web, Design Gráfico e Gestão de TI.
 
-Ao longo dos anos, tenho buscado expandir meu conhecimento e habilidades me aprofundado em linguagens de programação, frameworks e ferramentas relevantes para o desenvolvimento de software.
-
-Agora, estou buscando uma oportunidade para contribuir com o meu conhecimento e dar continuidade na minha carreira na área tecnológica.
-
-Obrigado por ter chegado até aqui,
-Abraço!
-</p>
+Abaixo, compartilho meus projetos, estudos e códigos. Sinta-se à vontade para explorar meu portfólio.
 </div>
 
-<!-- PROJETOS -->
 <div>
     <h2><img src="https://media.giphy.com/media/PtjGkQZGk6UTQpugvm/giphy.gif" height="13"> | Projetos</h2>
     <b>• Dio - Plataforma de Estudos</b>
     <br>→ <a href="https://github.com/devguilhermecarvalho/dio-desafio-python"> Formação Python</a> | Python
     <br><b>• Formação Santander Coders 2023 - Engenharia de Dados</b>
     <br>→ <a href="https://github.com/devguilhermecarvalho/santander-coders-2023-engdados"> Desafios, exercícios, estudos e etc</a> | Python
-    
-<!-- HABILIDADES / SKILLS -->
-<div>
-    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwN2ZhYjQ3NWEyZTRmZGQ0NzVlNjljZDIzMjQ5YmQxZDAyNDk2OCZjdD1n/xTiTnJx84dFZitpX2g/giphy.gif" height="13"> | Habilidades</h2>
-    <!-- PYTHON  -->
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <!-- MYSQL -->
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <!-- JAVASCRIPT -->
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <!-- CSS -->
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <!-- HTML -->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    
 </div>
 
+<div><!-- HABILIDADES / SKILLS -->
+    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwN2ZhYjQ3NWEyZTRmZGQ0NzVlNjljZDIzMjQ5YmQxZDAyNDk2OCZjdD1n/xTiTnJx84dFZitpX2g/giphy.gif" height="13"> | Habilidades</h2>
+    
+<!-- DATABRICKS --> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"> <!-- PYTHON --> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <!-- SQL --> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <!-- AWS --> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <!-- CSS3 --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- HTML --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
 
 <!-- REDES SOCIAIS -->
+
 <div>
     <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg2YmI2Zjk1N2Y4NmZiYjYxMjFjNTJlNjBlZWExN2I4MGYwNWE4ZCZjdD1n/xTiTnnmUYRNL25RqNi/giphy.gif" height="13"> | Links</h2>
     <!-- LINKEDIN -->
@@ -59,9 +44,10 @@ Abraço!
     </a>
 </div>
 
-
 <!-- CONTATO -->
+
 <div>
-    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJkMTBkZmVhYjJlMzE3MDliYWM4MTU0NDc1NTJjNWY0ZGY4YzE1NiZjdD1n/l0Exm8xQJVmo1WtSU/giphy.gif" height="13"> | Contato / Contatc</h2>
+    <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJkMTBkZmVhYjJlMzE3MDliYWM4MTU0NDc1NTJjNWY0ZGY4YzE1NiZjdD1n/l0Exm8xQJVmo1WtSU/giphy.gif" height="13"> | Contato</h2>
     <p><b>E-mail: guilhermerdcarvalho@gmail.com</b></p>
 </div>
+
