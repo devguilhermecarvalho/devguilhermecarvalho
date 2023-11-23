@@ -1,9 +1,9 @@
 <div>
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUzNTJmNDc1MmY3NWEzZWU2MzFiOTU2OWU5MDI0OTM1ZTMwZTZkMiZjdD1n/131tNuGktpXGhy/giphy.gif" height="13"><b> Seja bem-vindo(a)!</b></h2>
-    
-Tenho proficiência em Python e especialização em Engenharia de Dados. Procuro aprimorar constantemente meu conhecimento em Programação Orientada a Objetos (POO), processos de ETL e ELT, integração com APIs REST, bem como nas bibliotecas Pandas, Numpy, Spark e Hadoop, além de conceitos de SQL.
 
-Atualmente, estou cursando Engenharia de Software, com foco em Engenharia de Dados. Também acumulei experiência em Desenvolvimento Web, Design Gráfico e Gestão de TI.
+Sou um profissional de Engenharia de Dados Júnior, no qual Python é a linguagem na qual tenho maior conhecimento e tenho me especializado em aprimorar meus conhecimentos em modelos de Programação Orientada a Objetos (POO), em processos de ETL e ELT, integração com APIs REST, além de bibliotecas como Pandas, Numpy, PySpark, juntamente com conhecimentos e conceitos de SQL e banco de dados.
+
+Estou em formação em Engenharia de Software, me especializando em Engenharia de Dados e tenho experiência em Desenvolvimento Web, Design Gráfico e Gestão da TI. Meu histórico de serviço no Hospital Central do Exército por 8 anos demonstra minha disciplina, resiliência e capacidade de trabalho em equipe e experiência em liderança. Com isso, possuo um profundo entendimento de processos administrativos que me permite uma perspectiva única e versátil na resolução de problemas e desafios aliados ao uso da tecnologia.
 
 Abaixo, compartilho meus projetos, estudos e códigos. Sinta-se à vontade para explorar meu portfólio.
 </div>
