@@ -19,7 +19,7 @@ Abaixo, compartilho meus projetos, estudos e códigos. Sinta-se à vontade para 
 <div><!-- HABILIDADES / SKILLS -->
     <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwN2ZhYjQ3NWEyZTRmZGQ0NzVlNjljZDIzMjQ5YmQxZDAyNDk2OCZjdD1n/xTiTnJx84dFZitpX2g/giphy.gif" height="13"> | Habilidades</h2>
     
-<!-- DATABRICKS --> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"> <!-- PYTHON --> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <!-- SQL --> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <!-- AWS --> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <!-- CSS3 --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- HTML --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<!-- DATABRICKS --> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"> <!-- PYTHON --> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <!-- SQL --> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <!-- CSS3 --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- HTML --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
 <!-- REDES SOCIAIS -->
