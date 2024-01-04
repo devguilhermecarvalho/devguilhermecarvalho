@@ -1,6 +1,6 @@
-<img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVibXc1cDB1cWJ4Zmc1Y2s2YTUxcjNtZGdxcHp4MjdvcjRhZnVlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif'  width='350'>
-    
 ## Olá! Seja bem-vindo(a)! 😊
+
+<img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVibXc1cDB1cWJ4Zmc1Y2s2YTUxcjNtZGdxcHp4MjdvcjRhZnVlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif'  width='350'>
 
 Este é o meu espaço dedicado aos projetos mais incríveis que já desenvolvi. 🚀
 
