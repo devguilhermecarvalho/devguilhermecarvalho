@@ -12,4 +12,4 @@ Espero que se divirta explorando meu portfólio e será um prazer trocarmos idei
 
 ## 📋 | Projetos</h2>
 
-- <a href="https://github.com/devguilhermecarvalho/gcloud-automated-marketdata">Google Cloud Project - ETL Process with Cloud Funcions, Build, Scheduler, Storage and BigQuery.</a>
+- <a href="https://github.com/devguilhermecarvalho/gcloud-automated-marketdata">Google Cloud Project - ETL Process with Cloud Functions, Build, Scheduler, Storage and BigQuery.</a>
