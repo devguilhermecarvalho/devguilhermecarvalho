@@ -12,4 +12,4 @@ Espero que se divirta explorando meu portfólio e será um prazer trocarmos idei
 
 ## 📋 | Projetos</h2>
 
-- <a href="https://github.com/devguilhermecarvalho/santander-coders-2023-engdados/tree/main/03_Projeto-Tecnicas_de_%20Programacao">Processamento de Dados de Escolas (Módulo 03 - Técnicas de Programação | Satander Coders 2023 - Engenharia de Dados)</a>
+- <a href="https://github.com/devguilhermecarvalho/gcloud-automated-marketdata">Google Cloud Project - ETL Process with Cloud Funcions, Build, Scheduler, Storage and BigQuery.</a>
