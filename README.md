@@ -14,7 +14,7 @@ Espero que se divirta explorando meu portfólio e será um prazer trocarmos idei
 
 - <a href="https://github.com/devguilhermecarvalho/challenge-collect_news_content_and_store">Challenge - Collect news content, store and make it available via API.</a>
 
-- <a href="https://github.com/devguilhermecarvalho/api-fipe-extractor">APIs - Técnica de Extrações de Dados Avançados da Tabela Fipe com Python | SQL | PostgreSQL | Airflow | Docker.</a>
+- <a href="https://github.com/devguilhermecarvalho/astro_api_fipe_extractor">APIs - Técnica de Extrações de Dados Avançados da Tabela Fipe com Python | SQL | PostgreSQL | Airflow | Docker.</a>
 
 - <a href="https://github.com/devguilhermecarvalho/gcloud-automated-marketdata">Google Cloud | ETL Process with Cloud Functions, Build, Scheduler, Storage and BigQuery.</a>
 
