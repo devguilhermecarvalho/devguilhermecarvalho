@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a)! 😊
 
-Aqui, você pode explorar os meus projetos de **Engenharia de Dados**.
+Aqui, você pode explorar os meus projetos de **Engenharia de Dados**, **Machine Learning** e **IA**.
 
 E, cada um deles está detalhadamente apresentado, acompanhado por uma breve descrição das tecnologias que utilizei.
 
